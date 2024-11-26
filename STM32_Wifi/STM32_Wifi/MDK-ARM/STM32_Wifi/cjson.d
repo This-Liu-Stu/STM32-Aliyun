@@ -1,0 +1,9 @@
+stm32_wifi\cjson.o: ..\BSP\cJSON\cJSON.c
+stm32_wifi\cjson.o: F:\KEiIL\ARM\ARMCC\Bin\..\include\string.h
+stm32_wifi\cjson.o: F:\KEiIL\ARM\ARMCC\Bin\..\include\stdio.h
+stm32_wifi\cjson.o: F:\KEiIL\ARM\ARMCC\Bin\..\include\math.h
+stm32_wifi\cjson.o: F:\KEiIL\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32_wifi\cjson.o: F:\KEiIL\ARM\ARMCC\Bin\..\include\float.h
+stm32_wifi\cjson.o: F:\KEiIL\ARM\ARMCC\Bin\..\include\limits.h
+stm32_wifi\cjson.o: F:\KEiIL\ARM\ARMCC\Bin\..\include\ctype.h
+stm32_wifi\cjson.o: ..\BSP\cJSON\cJSON.h
